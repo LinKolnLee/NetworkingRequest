@@ -1,0 +1,6 @@
+framework module Pods_NetworkingTool {
+  umbrella header "Pods-NetworkingTool-umbrella.h"
+
+  export *
+  module * { export * }
+}
